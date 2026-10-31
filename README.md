@@ -19,15 +19,15 @@
 **方式一：整目录拷进去**
 
 ```bash
-git clone https://github.com/baodanla/skills.git baodanla-skills
-cp -r baodanla-skills/skills/* ~/.你的工具/skills/
+git clone https://github.com/suixiaozhang/baodanla.git
+cp -r baodanla/skills/* ~/.你的工具/skills/
 ```
 
 **方式二：只拷你要的那个**
 
 ```bash
-git clone https://github.com/baodanla/skills.git baodanla-skills
-cp -r baodanla-skills/skills/daihuo-koubo ~/.你的工具/skills/
+git clone https://github.com/suixiaozhang/baodanla.git
+cp -r baodanla/skills/daihuo-koubo ~/.你的工具/skills/
 ```
 
 装完在工具里说「用 daihuo-koubo 写一条口播」，或者直接给它一个产品让它写，它会自己匹配。
